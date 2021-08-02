@@ -1,0 +1,51 @@
+critic,title,rating
+Jack,Budget,35
+Jack,Weight,6
+Jack,titanium,1
+Jack,Carbon,0
+Jack,aluminum,0
+Jack,high tiensile,0
+Mick,Budget,25
+Mick,Weight,7.6
+Mick,titanium,0
+Mick,Carbon,1
+Mick,aluminum,0
+Mick,high tiensile,0
+Claudia,Budget,37
+Claudia,Weight,5.7
+Claudia,titanium,1
+Claudia,Carbon,0
+Claudia,aluminum,0
+Claudia,high tiensile,0
+Lisa,Budget,24
+Lisa,Weight,7.1
+Lisa,titanium,0
+Lisa,Carbon,1
+Lisa,aluminum,0
+Lisa,high tiensile,0
+Toby,Budget,18
+Toby,Weight,8.2
+Toby,titanium,0
+Toby,Carbon,0
+Toby,aluminum,1
+Toby,high tiensile,0
+Gene,Budget,35
+Gene,Weight,7
+D1,Budget,18
+D1,Weight,8.2
+D1,titanium,0
+D1,Carbon,0
+D1,aluminum,1
+D1,high tiensile,0
+D2,Budget,13
+D2,Weight,10
+D2,titanium,0
+D2,Carbon,0
+D2,aluminum,0
+D2,high tiensile,1
+D3,Budget,10
+D3,Weight,11
+D3,titanium,0
+D3,Carbon,0
+D3,aluminum,0
+D3,high tiensile,1
